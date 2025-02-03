@@ -1,0 +1,12 @@
+Project: Reaction Wheel Inverted Pendulum
+Date: 23-01-2025
+
+
+offset:
+const float accelOffsetX = -9.48;
+const float accelOffsetY = -0.08;
+const float accelOffsetZ = 0.02;
+
+const float gyroOffsetX = 0.01;
+const float gyroOffsetY = 0.01;
+const float gyroOffsetZ = -0.01;
